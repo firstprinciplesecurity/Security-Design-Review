@@ -1,6 +1,7 @@
 # Security Design Review Template
 
 ## Authors: Nielet D’mello and Swathi Joshi
+## Publish Date: January 16, 2024
 
 ### Introduction
 
