@@ -30,12 +30,14 @@ Contributor/ Decision Maker/Reviewer
 
 
 **API Endpoints**
+
 Endpoints
 Payload / Schema/ Methods
 Description
 
 
 **Architecture and Data Flows**
+
 Placeholder for architecture diagrams, data flow diagrams, etc.
 
 **Preventative Security Controls**
