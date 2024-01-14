@@ -9,9 +9,9 @@ This section establishes the scope and goal of the product/ service/feature/plat
 
 Some questions to consider- What does the application do? Provide business context, Describe the service or product. Consider walking through a User story. Business needs and value propositions are to be documented and articulated here. 
 
-Product/ App/Service Name: 
+ * Product/ App/Service Name:
 
-Stage of Review: Public Beta/ Private Beta/ GA
+ * Stage of Review: Public Beta/ Private Beta/ GA
 
 ### Audience
 
@@ -29,8 +29,8 @@ List all the teams responsible for review, input, and decision-making. List all 
 
 
 |Endpoints  | Payload / Schema/ Methods | Description |
-| ------------- | ------------- | ------------- |
-|               |               |               |
+|:-------------:|:-------------:|:-------------:|
+| Enter sample data | Enter sample data | Enter sample data |
 
 
 ### Architecture and Data Flows
