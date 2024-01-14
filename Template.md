@@ -6,6 +6,7 @@ Publish Date: January 16, 2024
 
 
 **Introduction**
+
 This section establishes the scope and goal of the product/ service/feature/platform. In this section clearly define what needs protection (data, systems, infrastructure, etc.) and why. 
 
 Some questions to consider- What does the application do? Provide business context, Describe the service or product. Consider walking through a User story. Business needs and value propositions are to be documented and articulated here. 
@@ -14,9 +15,10 @@ Product/ App/Service Name:
 Stage of Review: Public Beta/ Private Beta/ GA
 
 **Audience**
+
 List all the teams responsible for review, input, and decision-making. List all the relevant technical artifacts with links to internal sites where the artifacts are located (Git repo, JIRA, confluence etc) 
 
-**Roles and Responsibility **
+**Roles and Responsibility**
 
 Name
 Team
@@ -37,6 +39,7 @@ Description
 Placeholder for architecture diagrams, data flow diagrams, etc.
 
 **Preventative Security Controls**
+
 Goal: Secure design hardening, understanding current security measures and solutions to evaluate their limitations and effectiveness
 
 Security Controls
@@ -100,6 +103,7 @@ Secrets lifecycle- Generation, Rotation, Revocation, Deletion
 
 
 **Detective Security Controls**
+
 Goal: Detect abuse & misuse, ensure continuous monitoring capabilities are in place
 
 Security Controls
