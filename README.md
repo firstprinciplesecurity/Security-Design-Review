@@ -1,1 +1,2 @@
-# Secure-Design-Template
+# Security-Design-Review-Template
+This template is designed as a collaborative document between the information security team and engineering teams. This template can be used at any stage of the software design and development lifecycle. It's designed to be all-encompassing and can be tailored, to be at a service level, feature level, or product level. Readers should feel free to make a copy change/edit for their audience and needs.  
