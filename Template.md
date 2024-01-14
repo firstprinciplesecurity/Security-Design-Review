@@ -24,14 +24,15 @@ List all the teams responsible for review, input, and decision-making. List all 
 
 | Name  | Team | Role |
 | ----- | ----| ----- |
-| Content Cell  | Example:  Product Team, Security Team, Ops Teams. Legal | Contributor/ Decision Maker/Reviewer  |
+|       | Example:  Product Team, Security Team, Ops Teams. Legal | Contributor/ Decision Maker/Reviewer  |
 
 
 **API Endpoints**
 
-Endpoints
-Payload / Schema/ Methods
-Description
+
+|Endpoints  | Payload / Schema/ Methods | Description |
+| ------------- | ------------- | ------------- |
+|               |               |               |
 
 
 **Architecture and Data Flows**
