@@ -1,11 +1,8 @@
-Security Design Review Template 
+# Security Design Review Template
 
-Authors: Nielet D’mello and Swathi Joshi 
+## Authors: Nielet D’mello and Swathi Joshi
 
-Publish Date: January 16, 2024
-
-
-**Introduction**
+### Introduction
 
 This section establishes the scope and goal of the product/ service/feature/platform. In this section clearly define what needs protection (data, systems, infrastructure, etc.) and why. 
 
@@ -15,11 +12,11 @@ Product/ App/Service Name:
 
 Stage of Review: Public Beta/ Private Beta/ GA
 
-**Audience**
+### Audience
 
 List all the teams responsible for review, input, and decision-making. List all the relevant technical artifacts with links to internal sites where the artifacts are located (Git repo, JIRA, confluence etc) 
 
-**Roles and Responsibility**
+### Roles and Responsibility
 
 
 | Name  | Team | Role |
@@ -27,7 +24,7 @@ List all the teams responsible for review, input, and decision-making. List all 
 |       | Example:  Product Team, Security Team, Ops Teams. Legal | Contributor/ Decision Maker/Reviewer  |
 
 
-**API Endpoints**
+### API Endpoints
 
 
 |Endpoints  | Payload / Schema/ Methods | Description |
@@ -35,11 +32,11 @@ List all the teams responsible for review, input, and decision-making. List all 
 |               |               |               |
 
 
-**Architecture and Data Flows**
+### Architecture and Data Flows
 
 Placeholder for architecture diagrams, data flow diagrams, etc.
 
-**Preventative Security Controls**
+### Preventative Security Controls
 
 >Goal: Secure design hardening, understanding current security measures and solutions to evaluate their limitations and effectiveness
 
@@ -55,7 +52,7 @@ Placeholder for architecture diagrams, data flow diagrams, etc.
 | Data Protection and Privacy                  | Sensitive data is identified and classified into protection levels (per your data classification standards)<br><br>Privacy is ingrained wherever applicable                                                                                                                                                 |                      |
 | Secrets handling                             | Where are secrets stored and what does access look like for these<br><br>Does your application avoid and prevent logging secrets in cleartext<br><br>How is secret leak detected and revocation handled<br><br>Secrets lifecycle- Generation, Rotation, Revocation, Deletion                                |
 
-**Detective Security Controls**
+### Detective Security Controls
 
 >Goal: Detect abuse & misuse, ensure continuous monitoring capabilities are in place
 
@@ -70,18 +67,18 @@ Placeholder for architecture diagrams, data flow diagrams, etc.
 | Relevant Compliance Framework applicability                                                                                         | List any compliance frameworks this application falls under the scope for. Any regulatory regionalized obligations need to be noted here as well.                                                                                                                                                                                                              |                      |
 | Third-party Dependency and Review                                                                                                   | Any third-party dependencies, tools, or libraries need to be reviewed.                                                                                                                                                                                                                                                                                            |
 
-**Summary**
+### Summary
 
 What is the high-level takeaway for the developers and business teams from this review? It could be a ranked list from high confidence to low confidence, it could be an aggregate score and associated guidance to your developer teams.
 
-**Risks Identified**
+### Risks Identified
 
 A list of potential risks and threats both internal and external, is documented here with a severity to risk attached. 
 
-**Trade-offs**
+### Trade-offs
 
 Explicit listing of trade-offs between security, performance, reliability, cost, and usability.
 
-**Action Items**
+### Action Items 
 
 The Next steps and owners are to be listed here. 
