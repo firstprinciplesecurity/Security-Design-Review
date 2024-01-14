@@ -41,11 +41,19 @@ Placeholder for architecture diagrams, data flow diagrams, etc.
 
 **Preventative Security Controls**
 
-Goal: Secure design hardening, understanding current security measures and solutions to evaluate their limitations and effectiveness
+>Goal: Secure design hardening, understanding current security measures and solutions to evaluate their limitations and effectiveness
 
-Security Controls
-Descriptions
-Implementation Notes
+
+| Security Controls | Descriptions |Implementation Notes|
+| ------------- | ------------- | ------------- |
+|Business and Application Logic | How does data flow between users and applications
+How and what business rules are implemented within the application code
+What operations and type of operations are supported
+How might the app’s logic be misused or abused  |  |
+
+
+
+
 Business and Application Logic
 How does data flow between users and applications
 How and what business rules are implemented within the application code
